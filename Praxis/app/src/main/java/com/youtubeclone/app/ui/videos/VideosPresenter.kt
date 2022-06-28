@@ -22,7 +22,7 @@ class VideosPresenter(view: View) {
                 call: Call<List<Category>>,
                 response: Response<List<Category>>
             ) {
-                mainView.showCategories(response.body()!!)
+            //    mainView.showCategories(response.body()!!)
 
             }
 
