@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">YouTubeClone</string>
+    <string name="videos_title">YouTube videos</string>
+    <string name="video_lbl_views">%d pregleda</string>
+    <string name="description">Use your Google Account. Learn more</string>
+    <string name="link"> Learn more</string>
+    <string name="invalid_inputs">Invalid inputs</string>
+    <string name="incorrect_email">Email is incorrect</string>
+    <string name="short_passw">Password is to short</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="short_username">Username is short</string>
+    <string name="name_user">Username:</string>
+    <string name="user_name">Name:</string>
+    <string name="surname_user">Surname:</string>
+</resources>
